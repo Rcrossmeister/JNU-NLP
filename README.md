@@ -20,7 +20,9 @@
 
 ## 作业以及Q&A：
 
+通过github的方式提交
 
+QA链接：
 
 ## 学习路径：
 
@@ -70,7 +72,7 @@ https://github.com/d2l-ai/d2l-zh
 
 时间紧任务重，跟着敲，不懂及时约q-a
 
-## 7月29日-8月29日
+### 7月29日-8月29日
 
 **主要目标：**
 
@@ -85,5 +87,15 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 ```
 
 ```
+【斯坦福CS224N】(2021|中英) 深度自然语言处理Natural Language Processing with Deep Learning
+https://www.bilibili.com/video/BV18Y411p79k?vd_source=cb742f7a83ff2caf532a01a14a45591f
 ```
+
+多花点时间，需要完成作业
+
+### 8月29日-9月4日
+
+**主要目标：**
+
+Final Project
 
