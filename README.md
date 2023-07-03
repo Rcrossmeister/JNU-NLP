@@ -18,6 +18,10 @@
 7. NLP进阶，经典论文、框架学习
 8. Latex、论文撰写
 
+## 作业以及Q&A：
+
+
+
 ## 学习路径：
 
 ### 7月10日-7月15日
@@ -30,7 +34,7 @@ __主要目标：__
 
 __学习资料：__
 
-* Python:
+1. Python:
 
 ```
 《Python编程，从入门到实践》
@@ -38,7 +42,7 @@ __学习资料：__
 
 自行复习，不做单独培训和教学。上CSDN查或是问ChatGPT，是很好的方法
 
-* 机器学习：
+2. [机器学习](https://www.bilibili.com/video/BV1CW4y167YW?p=1&vd_source=35d7e3f5be80356297c1d0d50b62d9bc)：
 
 ```
 B站吴恩达《2022新版机器学习》课程
@@ -56,7 +60,29 @@ https://www.bilibili.com/video/BV1CW4y167YW?p=1&vd_source=35d7e3f5be80356297c1d0
 
 **学习资料：**
 
-* Pytorch
+```
+动手学深度学习-PyTorch版
+https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+https://zh.d2l.ai/index.html
+https://courses.d2l.ai/zh-v2/
+https://github.com/d2l-ai/d2l-zh
+```
+
+时间紧任务重，跟着敲，不懂及时约q-a
+
+## 7月29日-8月29日
+
+**主要目标：**
+
+* 学习NLP通识
+
+**学习资料：**
+
+```
+Standford cs224n
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/
+https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
+```
 
 ```
 ```
