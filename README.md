@@ -22,7 +22,7 @@
 
 通过github的方式提交
 
-QA链接：
+QA链接：https://calendly.com/zijin_hong/q-a
 
 ## 学习路径：
 
