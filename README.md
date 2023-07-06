@@ -4,7 +4,7 @@
 
 ## 规划：
 
-培训期：
+培训期： 
 
 1. Python、机器学习基础
 2. Pytorch、深度学习基础
@@ -20,7 +20,7 @@
 
 ## 作业以及Q&A：
 
-通过github的方式提交
+每周的作业布置以后，通过github的方式提交到自己的branch，会在3天内完成检查与feedback，请在自己的track留Readme做feedback。
 
 QA链接：https://calendly.com/zijin_hong/q-a
 
