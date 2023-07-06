@@ -99,3 +99,4 @@ https://www.bilibili.com/video/BV18Y411p79k?vd_source=cb742f7a83ff2caf532a01a14a
 
 Final Project
 
+一个QA对话系统，根据斯坦福的数据集和方法可作动态调整
