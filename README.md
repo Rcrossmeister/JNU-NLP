@@ -44,7 +44,7 @@ __学习资料：__
 
 自行复习，不做单独培训和教学。上CSDN查或是问ChatGPT，是很好的方法
 
-2. [机器学习](https://www.bilibili.com/video/BV1CW4y167YW?p=1&vd_source=35d7e3f5be80356297c1d0d50b62d9bc)：
+2. 机器学习：
 
 ```
 B站吴恩达《2022新版机器学习》课程
