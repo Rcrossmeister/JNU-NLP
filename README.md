@@ -6,7 +6,7 @@
 
 培训期： 
 
-1. Python、机器学习基础
+1. Python、机器学习基础 
 2. Pytorch、深度学习基础
 3. NLP通识
 
@@ -20,7 +20,7 @@
 
 ## 作业以及Q&A：
 
-每周的作业布置以后，通过github的方式提交到自己的branch，会在3天内完成检查与feedback，请在自己的track留Readme做feedback。
+每周的作业布置以后，通过github的方式提交到自己的branch，会在3天内完成检查与feedback，合并到请在自己的track留Readme做feedback。
 
 QA链接：https://calendly.com/zijin_hong/q-a
 
@@ -64,10 +64,14 @@ https://www.bilibili.com/video/BV1CW4y167YW?p=1&vd_source=35d7e3f5be80356297c1d0
 
 ```
 动手学深度学习-PyTorch版
-https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 https://zh.d2l.ai/index.html
 https://courses.d2l.ai/zh-v2/
 https://github.com/d2l-ai/d2l-zh
+```
+
+```
+《动手学深度学习》配套视频
+https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 ```
 
 时间紧任务重，跟着敲，不懂及时约q-a
@@ -87,7 +91,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 ```
 
 ```
-【斯坦福CS224N】(2021|中英) 深度自然语言处理Natural Language Processing with Deep Learning
+【斯坦福CS224N】(2021|中英) 深度自然语言处理 Natural Language Processing with Deep Learning
 https://www.bilibili.com/video/BV18Y411p79k?vd_source=cb742f7a83ff2caf532a01a14a45591f
 ```
 
