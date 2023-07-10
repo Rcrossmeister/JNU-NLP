@@ -21,15 +21,15 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 首先打开[JNU-NLP](https://github.com/Rcrossmeister/JNU-NLP/)，通过左上角创建自己的brach
 
-![image-20230710165949197](https://github.com/Rcrossmeister/JNU-NLP/Figure/1.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/1.png?raw=true)
 
-![image-20230710170401154](/Users/rcross/Library/Application Support/typora-user-images/image-20230710170401154.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/2.png?raw=true)
 
 创建完成后通过Github Desktop打开自己的branch
 
-![image-20230710170557917](/Users/rcross/Library/Application Support/typora-user-images/image-20230710170557917.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/3.png?raw=true)
 
-![image-20230710170902901](/Users/rcross/Library/Application Support/typora-user-images/image-20230710170902901.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/4.png?raw=true)
 
 上图的Repo URL应该是你自己的Rcrossmeister/JNU-NLP, Local Path自己选地方放
 
@@ -37,29 +37,29 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 首先切换Current Brach到自己的Brach
 
-![image-20230710171431265](/Users/rcross/Library/Application Support/typora-user-images/image-20230710171431265.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/5.png?raw=true)
 
 **Warning:**  **千万不要切错！！一定要看好自己是哪个Branch**
 
 在自己的brach下，打开本地文件
 
-![image-20230710171658423](/Users/rcross/Library/Application Support/typora-user-images/image-20230710171658423.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/6.png?raw=true)
 
 在本地创建一个md文件（这里演示的是Typora版本，别的也一样），并命名为自己名字的简写
 
-![image-20230710171944016](/Users/rcross/Library/Application Support/typora-user-images/image-20230710171944016.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/7.png?raw=true)
 
-![image-20230710172024020](/Users/rcross/Library/Application Support/typora-user-images/image-20230710172024020.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/8.png?raw=true)
 
 在文件上进行提问
 
-![image-20230710172218492](/Users/rcross/Library/Application Support/typora-user-images/image-20230710172218492.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/9.png?raw=true)
 
 保存后提交到自己的Brach上
 
-![image-20230710172404654](/Users/rcross/Library/Application Support/typora-user-images/image-20230710172404654.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/10.png?raw=true)
 
-![image-20230710172521821](/Users/rcross/Library/Application Support/typora-user-images/image-20230710172521821.png)
+![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/11.png?raw=true)
 
 Push to origin结束后便会完成提交
 
