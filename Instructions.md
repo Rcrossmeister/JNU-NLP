@@ -21,7 +21,7 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 首先打开[JNU-NLP](https://github.com/Rcrossmeister/JNU-NLP/)，通过左上角创建自己的brach
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/1.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/1.png?raw=true" alt="1.png"  />
 
 ![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/2.png?raw=true)
 
@@ -29,7 +29,7 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 ![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/3.png?raw=true)
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/4.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/4.png?raw=true" alt="1.png" style="zoom:67%;" />
 
 上图的Repo URL应该是你自己的Rcrossmeister/JNU-NLP, Local Path自己选地方放
 
@@ -37,13 +37,13 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 首先切换Current Brach到自己的Brach
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/5.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/5.png?raw=true" alt="1.png" style="zoom:50%;" />
 
 **Warning:**  **千万不要切错！！一定要看好自己是哪个Branch**
 
 在自己的brach下，打开本地文件
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/6.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/6.png?raw=true" alt="1.png" style="zoom:67%;" />
 
 在本地创建一个md文件（这里演示的是Typora版本，别的也一样），并命名为自己名字的简写
 
@@ -53,13 +53,13 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 在文件上进行提问
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/9.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/9.png?raw=true" alt="1.png" style="zoom:67%;" />
 
 保存后提交到自己的Brach上
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/10.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/10.png?raw=true" alt="1.png" style="zoom:50%;" />
 
-![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/11.png?raw=true)
+<img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/11.png?raw=true" alt="1.png" style="zoom:50%;" />
 
 Push to origin结束后便会完成提交
 
