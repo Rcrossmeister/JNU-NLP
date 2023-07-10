@@ -58,3 +58,12 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 保存后提交到自己的Brach上
 
 ![image-20230710172404654](/Users/rcross/Library/Application Support/typora-user-images/image-20230710172404654.png)
+
+![image-20230710172521821](/Users/rcross/Library/Application Support/typora-user-images/image-20230710172521821.png)
+
+Push to origin结束后便会完成提交
+
+## 3.下载问题的答案
+
+得知答案已回答以后，打开自己的Github Desktop，Fetch一下即可
+
