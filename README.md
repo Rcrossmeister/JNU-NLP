@@ -8,21 +8,22 @@
 
 1. Python、机器学习基础 
 2. Pytorch、深度学习基础
-3. NLP通识
-4. Linux、shell基础、深度学习服务器使用
+3. NLP通识、进阶项目
 
 项目期：
 
-4. 人工智能进阶
-5. 论文阅读，结果复现指南
-6. NLP进阶，经典论文、框架学习
-7. Latex、论文撰写
+4. Linux、shell基础、深度学习服务器使用
+5. 人工智能进阶
+6. 论文阅读，结果复现指南
+7. NLP进阶，经典论文、框架学习
+8. Latex、论文撰写
 
 ## 作业以及Q&A：
 
-每周的作业布置以后，通过github的方式提交到自己的branch，会在3天内完成检查与feedback，合并到请在自己的track留Readme做feedback。
+每周的作业布置以后，通过github的方式提交到自己的branch，会在3天内完成检查feedback，通过的作业会合并到main brach。Feedback接受和问题讨论会在每个branch的md文件中进行（此文件请一开始就完成创建且与brach的名字保持一致。例：hzj.md）。
 
-QA链接：https://calendly.com/zijin_hong/q-a
+Q&A：https://calendly.com/zijin_hong/q-a
+请把问题在预约前编辑好放在自己的md文件中，然后微信告知已约Q&A。
 
 ## 学习路径：
 
