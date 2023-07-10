@@ -41,6 +41,8 @@ __主要目标：__
 
 * 学习机器学习相关理论
 
+* Markdown书写
+
 __学习资料：__
 
 1. Python:
@@ -58,7 +60,15 @@ B站吴恩达《2022新版机器学习》课程
 https://www.bilibili.com/video/BV1CW4y167YW?p=1&vd_source=35d7e3f5be80356297c1d0d50b62d9bc
 ```
 
-只需完成这个视频中所涵盖的Course，
+只需完成这个视频中所涵盖的Course
+
+3. Markdown
+
+```
+http://t.csdn.cn/YlCvq
+```
+
+边用边学
 
 ### 7月15日-7月29日
 
