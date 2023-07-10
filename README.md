@@ -27,7 +27,7 @@ Q&A：https://calendly.com/zijin_hong/q-a
 
 ## 学习路径：
 
-### 7月11日-7月15日
+### 7月10日-7月15日
 
 __主要目标：__
 
@@ -43,7 +43,7 @@ __学习资料：__
 《Python编程，从入门到实践》
 ```
 
-自行复习，不做单独培训和教学。上CSDN查或是问ChatGPT，是很好的方法
+自行复习，不做单独培训和教学。在CSDN查询相关资料或是用ChatGPT等AI，都是很好的辅助工具
 
 2. 机器学习：
 
@@ -52,7 +52,7 @@ B站吴恩达《2022新版机器学习》课程
 https://www.bilibili.com/video/BV1CW4y167YW?p=1&vd_source=35d7e3f5be80356297c1d0d50b62d9bc
 ```
 
-只需完成Course1
+只需完成这个视频中所涵盖的Course，
 
 ### 7月15日-7月29日
 
@@ -75,9 +75,9 @@ https://github.com/d2l-ai/d2l-zh
 https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 ```
 
-时间紧任务重，跟着敲，不懂及时约q-a
+时间紧任务重，一定要跟着敲代码，本阶段不涉及作业的完成以及提交。请自觉高效地完成本阶段的培训，有问题请及时约Q&A讨论。
 
-### 7月29日-8月29日
+### 7月29日-8月24日
 
 **主要目标：**
 
@@ -96,12 +96,10 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 https://www.bilibili.com/video/BV18Y411p79k?vd_source=cb742f7a83ff2caf532a01a14a45591f
 ```
 
-多花点时间，需要完成作业并提交
+多花点时间，需要完成作业并提交，详细提交进程
 
-### 8月29日-9月4日
+### 8月24日-8月29日
 
 **主要目标：**
 
-Final Project
-
-一个QA对话系统，根据斯坦福的数据集和方法可作动态调整
+Final Project，具体内容会在8月1日公布。
