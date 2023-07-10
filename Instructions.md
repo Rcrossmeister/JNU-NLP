@@ -45,7 +45,7 @@ __强烈建议下载Github Desktop__，本手册也只针对Desktop进行教学�
 
 <img src="https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/6.png?raw=true" alt="1.png" style="zoom:67%;" />
 
-在本地创建一个md文件（这里演示的是Typora版本，别的也一样），并命名为自己名字的简写
+在本地创建一个md文件（这里演示的是Typora版本，别的也一样），并命名为自己名字的简写（例：洪梓晋就用hzj）
 
 ![1.png](https://github.com/Rcrossmeister/JNU-NLP/blob/main/Figure/7.png?raw=true)
 
