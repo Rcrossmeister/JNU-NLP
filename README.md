@@ -116,7 +116,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 https://www.bilibili.com/video/BV18Y411p79k?vd_source=cb742f7a83ff2caf532a01a14a45591f
 ```
 
-多花点时间，需要完成作业并提交，详细提交进程
+多花点时间，需要完成作业并提交，详细提交进程会在第二周培训阶段结束后上传。
 
 ### 8月24日-8月29日
 
