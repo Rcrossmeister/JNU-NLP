@@ -124,7 +124,7 @@ https://www.bilibili.com/video/BV18Y411p79k?vd_source=cb742f7a83ff2caf532a01a14a
 ___在进行Final Project前请至少完成`Standford-cs224n-2021winter`课后练习Assignment1-4并上传___
 在自己的track下面创建对应文件夹，命名为Assignment1-5，将所有完成的材料进行上传（无关部分例如Assignment2中的sgd.py可忽略，只上传工作部分即可）
 
-### 8月24日-8月29日
+### 8月24日-9月1日
 
 **主要目标：**
 
