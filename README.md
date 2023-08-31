@@ -130,7 +130,7 @@ ___在进行Final Project前请至少完成`Standford-cs224n-2021winter`课后�
 
 * 完成Final Project，提交Project Proposal
 
-* 按要求对自己的工作进行Presentation
+* 按要求对自己的工作进行Presentation（ASAP）
 
 **学习资料：**
 
